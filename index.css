@@ -44,7 +44,8 @@ div{
     height: auto;
 
     background-color: #5bfdf547;
-    border: solid 1px black;
+    border: solid 1px #00d2c7;
+    box-shadow: inset -1px -20px 20px 0px #5bfdf582;
 
     padding-top: 1px;
     padding-bottom: 5px;
@@ -85,4 +86,8 @@ th {
 td {
     border-bottom: solid 1px black;
     border-left: solid 1px black;
+}
+
+.idiomas {
+    margin-bottom: 0px;
 }
